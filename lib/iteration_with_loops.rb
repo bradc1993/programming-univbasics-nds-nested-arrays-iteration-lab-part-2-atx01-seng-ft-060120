@@ -6,6 +6,7 @@ new_array = []
 outer_count = 0
 while outer_count < src.length do
   inner_count = 0
+  minimum_temp = 
   
   while inner_count < 
 
