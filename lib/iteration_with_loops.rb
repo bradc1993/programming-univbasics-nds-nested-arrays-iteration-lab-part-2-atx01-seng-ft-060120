@@ -6,8 +6,8 @@ new_array = []
 outer_count = 0
 while outer_count < src.length do
   inner_count = 0
-  minimum_temp = 
+  minimum_temp = 1000
   
-  while inner_count < 
+  while sr[outer_count][inner_count] < 
 
 end
